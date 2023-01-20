@@ -1,0 +1,15 @@
+D:\InductionTasks\PersonTask1\bin\Debug\net6.0\PersonTask1.exe
+D:\InductionTasks\PersonTask1\bin\Debug\net6.0\PersonTask1.deps.json
+D:\InductionTasks\PersonTask1\bin\Debug\net6.0\PersonTask1.runtimeconfig.json
+D:\InductionTasks\PersonTask1\bin\Debug\net6.0\PersonTask1.dll
+D:\InductionTasks\PersonTask1\bin\Debug\net6.0\PersonTask1.pdb
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.csproj.AssemblyReference.cache
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.AssemblyInfoInputs.cache
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.AssemblyInfo.cs
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.csproj.CoreCompileInputs.cache
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.dll
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\refint\PersonTask1.dll
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.pdb
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\PersonTask1.genruntimeconfig.cache
+D:\InductionTasks\PersonTask1\obj\Debug\net6.0\ref\PersonTask1.dll
